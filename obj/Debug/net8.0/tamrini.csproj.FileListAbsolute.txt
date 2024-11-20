@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\bin\Debug\net8.0\tamrini.exe
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\bin\Debug\net8.0\tamrini.deps.json
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\bin\Debug\net8.0\tamrini.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\bin\Debug\net8.0\tamrini.dll
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\bin\Debug\net8.0\tamrini.pdb
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.sourcelink.json
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.dll
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\refint\tamrini.dll
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.pdb
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\tamrini.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\project cs\tamrini\obj\Debug\net8.0\ref\tamrini.dll
